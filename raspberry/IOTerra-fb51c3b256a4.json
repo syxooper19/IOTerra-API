@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ioterra",
+  "private_key_id": "fb51c3b256a48ff45b5417aa75c5dcabc4ea1c8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDg0LRmp4xwgoSD\nA8yKF7d0v5to8sBrVLHNpqYpYXHMMt0orSDMMjJM3ufQtu55R7pUCRBMEy7mYg87\nOFb1H9UkVjp+jueNDkRyKq2Eb9L06fr+ggQmbGR2ftLIzPykmXHhsy/uOi+gpWcN\nSY77BFNHiv865k3rRUrVWLUQ4Cl70liyHFWqwMYUio0N1L2p6eRbYTpby/fwZnR4\n9jla1yQ2YLkasQZMRyJXtpSTb7YmLxMmoW5w+yjh2+NNvKHmlWxkeTQkwx6Eyu8Q\nTjysKSFqS6sYJiau8ByQaM1nY27X9yKYFKuoVftlNJzv6LAg3VVG6d1GMGmW7FKD\no3CaYqCTAgMBAAECggEAJsrMfjQmDxnuXJ8Qsbli7hHL8sGEg2CzZ418eYJ3fOk/\n8S9ii+mTdWE3NfQC1UmTtMF1nvLmcll0UF8p3hU2lZUNdd4ZxWSzWdHUbBhRmfIv\n3a+4oJqugSXkIEMCyzIxDOV6/UvsAPfZftj1A4pdBmjNHrAzvMeRoJu0bquHbPZt\ndMZe2GdesMnv6SdVPs6FynY4G6jhagLWUXqi2XFmE3YUrc+AuvSU6/yB5W3cXhY7\nIPdmtK6qjXOQ0IDN8rHy/9efZDRbTeoLt79xPkCCmbecPSt5YQ9ZgHW7amEdRmlk\nEtPHKPF1HDTfgg/YL9IdGu/APfhhI7dupnAzho06rQKBgQD73SAAnCKGvCKbddEr\n4spmyAUkbJJlku35iqnJ32LbH4Hemn0PbdgqLx1HYwNGoT6/IO1HnZsEXskSxtKK\nJkuIHmNuWS1Pou+B12m9/NUWcmhVWGCBCH+sVHcBFtuoEmW/UWnEB3YxibjEYR4+\nRDoyPFwtTYQaD64juwnSHyOSpQKBgQDkgd0LRjBt3MzwG+V/UyeU0zWiPDdofNF+\n/LhMHsILygujqcAo18VYyWK8VMBhnu+k6gRXoYepuMGm4hXrtY+FctZY8fNhpgda\nNgxCKIC+nfc8D2VVUaqpWo6RZaabDrflJPaVWJ9zV9hZwN55P9c9UpcfkiemgxNv\nKD+RCkcY1wKBgQD1t/v63FkK3g1dYgpaKH6S2924dXw2QKyPYmrXmmrVoN2REWOl\nY+Ma9LA57y1JARM4YKVd0zNjhh3hhbvuMAJMoGkdRT9hjHLiWAi/5CT4K1ICwaAV\nAvecZyNbGrPeO2SszH7FUwpKtjRe0ukwklu8mwrK3+9bhaS9E0M3jk2kSQKBgQCs\nJ8bAOrY73xEriOjjf2OftWx/+PwJpZg0IvQ6rSWmuicAu+BBJSbSWI8hsnxqT9Le\nnUx+NP0/eimzsDuxpM0nTjh9NHQXyn1ZksSzh05PzjU5M6Q1nlyEUOx+UGYwBeu4\nIJwCMo2W2cTvAeba1KU11yZyK6vhwHkA0wLpJCQiawKBgHmHummsH9XT5dlxXMug\nBMOBXh7Q4snFNlRymt6I/POP6AV3YB6dPe7oVOEGC3/6kmhji49nRPHIkJV/I2R+\nmMNmN1blmIG2y0Gj+1mwDmHQgrsc0nCUtjJkk988VqJh2zQHN+Tf1wKDlUDGN6f+\nx1YzN+JWPraMA/5dncQDqbF9\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v9wqw@ioterra.iam.gserviceaccount.com",
+  "client_id": "108313651870944539171",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v9wqw%40ioterra.iam.gserviceaccount.com"
+}
