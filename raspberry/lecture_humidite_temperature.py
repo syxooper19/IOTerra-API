@@ -85,7 +85,7 @@ def envoi_mail(mail, hygroOuTemp, ecart):
 # Use the application default credentials
 cred = credentials.ApplicationDefault()
 firebase_admin.initialize_app(cred, {
-  'projectId': 'ioterra',
+  'projectId': conf.projectIDfirebase,
 })
 
 db = firestore.client()
